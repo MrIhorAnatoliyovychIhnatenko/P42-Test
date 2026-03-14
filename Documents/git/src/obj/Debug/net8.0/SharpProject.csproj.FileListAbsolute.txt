@@ -1,0 +1,15 @@
+C:\Users\Igor\Documents\git\SharpProject\bin\Debug\net8.0\SharpProject.exe
+C:\Users\Igor\Documents\git\SharpProject\bin\Debug\net8.0\SharpProject.deps.json
+C:\Users\Igor\Documents\git\SharpProject\bin\Debug\net8.0\SharpProject.runtimeconfig.json
+C:\Users\Igor\Documents\git\SharpProject\bin\Debug\net8.0\SharpProject.dll
+C:\Users\Igor\Documents\git\SharpProject\bin\Debug\net8.0\SharpProject.pdb
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.AssemblyInfo.cs
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.sourcelink.json
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.dll
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\refint\SharpProject.dll
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.pdb
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\SharpProject.genruntimeconfig.cache
+C:\Users\Igor\Documents\git\SharpProject\obj\Debug\net8.0\ref\SharpProject.dll
